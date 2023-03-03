@@ -1,5 +1,5 @@
-### Studio 19,5 m à 5 min du métro Fort d'Aubervillers: 
-![](images/salon/IMG_1755.jpeg)
+### Studio 19,5 m2 à 5 min du métro Fort d'Aubervillers: 
+![](images/chambre/PXL_20230220_122018538.MP.jpg)
 ### Description
 
 Je propose à la vente ce studio de 19,5 m2, situé au 1er étage d'une résidence de 4 étages, à 5 minutes à pied du métro Fort d'Aubervilliers et de la future station de la ligne 15.  
@@ -16,7 +16,7 @@ N'hésitez pas à me contacter pour organiser une visite et découvrir ce charma
 ### Prix 94 000 euros:
 Vente de particuliers à particuliers, pas de frais d'agences.  
 Je peux vous fournir plusieurs devis que j'avais demandé pour isoler le studio et refaire la salle d'eau.  
-([voir la fiche](plaza.pdf))
+
 
 ### Photos:
 - [Pièce principale](chambre.md)
@@ -26,7 +26,3 @@ Je peux vous fournir plusieurs devis que j'avais demandé pour isoler le studio 
 
 ### Contact:  
 Premier contact par mail uniquement: sudioaubervilliers@gmail.com  
-
-![](images/plan/3d_1.png)  
-
-![](images/plan/plan.png) 
