@@ -1,0 +1,12 @@
+site_name: Annonce
+
+nav:
+  - Description: index.md
+  - Photos: 
+    - Chambre: chambre.md
+    - Cuisine: cuisine.md
+    - Salle de bain: sdb.md
+  - Contact: contact.md
+
+theme:
+  name: 'minty'
