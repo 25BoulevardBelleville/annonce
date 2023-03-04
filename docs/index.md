@@ -13,9 +13,10 @@ Les charges actuelles sont de 165 euros par trimestre et la taxe foncière est d
 N'hésitez pas à me contacter pour organiser une visite et découvrir ce charmant studio à fort potentiel.
 
 
-### Prix 94 000 euros:
-Vente de particuliers à particuliers, pas de frais d'agences.  
-Je peux vous fournir plusieurs devis que j'avais demandé pour isoler le studio et refaire la salle d'eau.  
+### Prix 96 000 euros:
+Vente de particuliers à particuliers, pas de frais d'agences. 
+Agence s'abstenir. 
+<!-- Je peux vous fournir plusieurs devis que j'avais demandés pour isoler le studio et refaire la salle d'eau.   -->
 
 
 ### Photos:
